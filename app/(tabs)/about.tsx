@@ -3,7 +3,7 @@ import { View, Text, StyleSheet } from "react-native";
 export default function AboutScreen() {
     return (
         <View style={styles.container}>
-            <Text style={styles.text}>About screen</Text>
+            <Text style={styles.text}>Леушин А.А 221-323</Text>
         </View>
     )
 }
